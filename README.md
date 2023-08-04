@@ -76,7 +76,7 @@ Nesse momento:
 - Calculadas as médias, desvio padrão e EPs (escore padronizado da competência).
 - Serão calculadas as Notas Finais.
 - Os cursos serão ordenados.
-  ![image](https://github.com/fernandapessoa/Sistema-de-Gerenciamento-de-Provas-FAPEC/assets/103967442/5e6903d2-0ad0-433d-a69f-830338b32e71)
+![image](https://github.com/fernandapessoa/Sistema-de-Gerenciamento-de-Provas-FAPEC/assets/103967442/5e6903d2-0ad0-433d-a69f-830338b32e71)
 
 **1 - Gerar arquivo de saída .txt:** Será gerado o Arquivo_candidato.txt, que mostra uma lista geral classificado por nota, levando em consideração as vagas para cada cota.  
 
