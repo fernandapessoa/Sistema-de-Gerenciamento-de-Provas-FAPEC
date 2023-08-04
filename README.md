@@ -13,7 +13,7 @@ Realizado em 28/11/2022
 
 
 ## O que é?  
-O Trabalho consiste em fazer um programa de avaliação dos candidatos que participaram do Vestibular, gerando a classificação, aprovados e reprovados. É um progarama de terminal que trabalho com arquivos .txt. 
+O Trabalho consiste em fazer um programa de avaliação dos candidatos que participaram do Vestibular, gerando a classificação, aprovados e reprovados. É um progarama de terminal que trabalha com arquivos .txt. 
 Foi desenvolvido em C/C++, utilizando ponteiros e alocações dinâmicas de memória.
   
 ## Arquivos de entrada  
