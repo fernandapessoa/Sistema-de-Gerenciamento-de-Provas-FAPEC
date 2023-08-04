@@ -12,7 +12,7 @@ Realizado em 28/11/2022
   
 
 
-## O que é?
+## O que é?  
 O Trabalho consiste em fazer um programa de avaliação dos candidatos que participaram do Vestibular, gerando a classificação, aprovados e reprovados. É um progarama de terminal que trabalho com arquivos .txt. 
 Foi desenvolvido em C/C++, utilizando ponteiros e alocações dinâmicas de memória.
   
@@ -48,7 +48,8 @@ Foi desenvolvido em C/C++, utilizando ponteiros e alocações dinâmicas de mem�
   
 ![image](https://github.com/fernandapessoa/Sistema-de-Gerenciamento-de-Provas-FAPEC/assets/103967442/ef0e7d9c-f0d8-4eac-be61-6bf0cde6558b)  
 
-## Como compilar
+## Como compilar  
+
 Dentro do seu diretório, o comando:  
 
 ```gcc *.cpp -o prg.exe -Wall -lm```  
@@ -62,6 +63,7 @@ obs: É necessário ter o compilador gcc já em seu computador.
    
 ## O programa  
 Será gerado um menu no console:  
+
 ![image](https://github.com/fernandapessoa/Sistema-de-Gerenciamento-de-Provas-FAPEC/assets/103967442/be96470c-bd16-4be7-8d6d-59d71d09f36b)  
 
 obs: Caso apareça caracteres estranhos, cole o seguinte comando no terminal para que reconheça os caracteres UFT8:   
